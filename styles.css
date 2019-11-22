@@ -23,3 +23,7 @@ margin-right: 0%;
 body{
     background-image: url(https://pro2-bar-s3-cdn-cf1.myportfolio.com/809dc9f0ac9ccb37f062a6d6d70df104/c14fd10c-fa3c-4f7d-a14c-0f96ae86cda9_rw_1920.png?h=2c79de5a993bcb20ec50d4b3cb9c2bf5);
 }
+
+p{
+    font-family: 'Karla', sans-serif;
+}

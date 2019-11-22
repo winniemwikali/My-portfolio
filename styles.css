@@ -2,10 +2,11 @@ nav>ul>li{ color: white;
     list-style-type: none;
 display: inline;
 }
-ul>li{color: white;
-    background-color: black;
-    padding-left:90%px;
-    width: 100%;
+a{
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: chartreuse;
+    padding: 30px;
 }
 
 nav{color: white;
@@ -28,6 +29,7 @@ text-align: center;
 }
 
 p{
+    color: darkgreen;
     font-family: 'Karla', sans-serif;
     font-size: 30px;
     color: black;
@@ -40,12 +42,13 @@ ol>li{
 img{
     border-radius: 50%;
 }
-h3{text-align: centre;
-    font-style: 30px;
 
-}
+
 h4{text-align: centre;
     font-style: 30px;
-}
 
-  
+}
+.int{
+    position: relative;
+    left: -10px;
+}

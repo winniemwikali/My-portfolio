@@ -9,7 +9,7 @@ ul>li{color: white;
 }
 
 nav{color: white;
-    background-color: black;
+    background-color: tomato;
 float: right;
 font-family: 'Francois One', sans-serif;
 font-size: 30px;
@@ -21,16 +21,21 @@ margin-right: 0%;
 }
 
 body{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlPNgpl8wqze0jSr6wGMMwUUOtrp7-0rWNZaymXkCrNvfR7n3c);
+    background-image: url(https://www.promofix.com/wp-content/uploads/2017/01/Laptop-coffe.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    
+text-align: center;
 }
 
 p{
     font-family: 'Karla', sans-serif;
     font-size: 30px;
+    color: black;
 }
 ol>li{
     font-size: 30px;
+}
+
+img{
+    border-radius: 50%;
 }

@@ -21,9 +21,16 @@ margin-right: 0%;
 }
 
 body{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlPNgpl8wqze0jSr6wGMMwUUOtrp7-0rWNZaymXkCrNvfR7n3c)
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlPNgpl8wqze0jSr6wGMMwUUOtrp7-0rWNZaymXkCrNvfR7n3c);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 
 p{
     font-family: 'Karla', sans-serif;
+    font-size: 30px;
+}
+ol>li{
+    font-size: 30px;
 }

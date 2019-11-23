@@ -77,3 +77,8 @@ h4{text-align: centre;
      padding-top: 1px;
      padding-bottom: 2px;
 }
+span{
+    font-family: 'Anton', sans-serif;
+    color: white;
+    text-decoration: underline;
+}

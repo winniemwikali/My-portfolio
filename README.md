@@ -6,6 +6,6 @@ Description:This project is about my portfolio including all projects that I hav
 
 Technology used:HTML and CSS
 
-Link to Site:https://github.com/winniemwikali/My-portfolio.github.io
+Link to Site: https://winniemwikali.github.io/My-portfolio.github.io/
 
 Licence:MIT

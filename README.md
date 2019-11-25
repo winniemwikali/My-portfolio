@@ -10,7 +10,7 @@ This project is about me, the projects have done and my contacts.
 HTML and CSS
 
 ## Link to Site:
- https://winniemwikali.github.io/My-portfolio.github.io/
+ https://winniemwikali.github.io/my-portfolio/.
 
 ## License
 Licensed under the [MIT license](LICENSE)

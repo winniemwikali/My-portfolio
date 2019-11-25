@@ -84,3 +84,8 @@ span{
     text-decoration: underline;
 }
 
+@media screen and (min-width:480px) and (max-width:800px){
+    body{
+        width: 100%;
+    }
+}

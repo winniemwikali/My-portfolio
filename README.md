@@ -1,11 +1,16 @@
-Project Name:Portfolio
+## My Portfolio
 
-Author:Winnie Mwikali
+## Author
+Winnie Mwikali
 
-Description:This project is about me, the projects have done and my contacts.
+## Description
+This project is about me, the projects have done and my contacts.
 
-Technology used:HTML and CSS
+## Technology used
+HTML and CSS
 
-Link to Site: https://winniemwikali.github.io/My-portfolio.github.io/
+## Link to Site:
+ https://winniemwikali.github.io/My-portfolio.github.io/
 
-Licence:MIT
+## License
+Licensed under the [MIT license](LICENSE)
